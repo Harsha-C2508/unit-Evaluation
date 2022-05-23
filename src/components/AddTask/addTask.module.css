@@ -1,0 +1,23 @@
+.todoForm {
+ border: 2px solid blue;
+ height: 40px;
+ margin-top: -5px;
+}
+.addTodo{
+  border: none;
+  width: 78%;
+  height: 90%;
+  font-weight: bold;
+  outline: none;
+  font-size: 17px;
+}
+.add{
+  width: 20%;
+  height: 90%;
+  margin-left: 5px;
+  background-color: white;
+  border: none;
+  font-weight: bolder;
+  font-size: 25px;
+  color: #0e5cad;
+}

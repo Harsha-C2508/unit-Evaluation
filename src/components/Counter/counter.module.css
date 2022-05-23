@@ -1,0 +1,18 @@
+.counter {
+  font-weight: bolder;
+}
+.add{
+  background-color: #8197e8;
+  width: 30px;
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+  margin-left: 30px;
+}
+.add1{
+  background-color: #8197e8;
+  width: 30px;
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+}

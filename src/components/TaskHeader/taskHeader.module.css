@@ -1,0 +1,8 @@
+.taskHeader {
+text-align: center;
+background-color: #1f74ab;
+color: white;
+}
+.taskHeader>p{
+    padding-bottom: 10px;
+}
